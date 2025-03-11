@@ -1,0 +1,10 @@
+export { default as UserProfile } from "@/pages/userRecipe/PreviewProfile.tsx";
+export { default as UserRecipes } from "@/pages/userRecipe/userRecipes.tsx";
+export { default as About } from "./About";
+export { default as ErrorPage } from "./ErrorPage.tsx";
+export { default as Home } from "./Home";
+export { default as SearchIngredientsResult } from "./Ingredients/SearchIngredientsResult.tsx";
+export { default as PrivacyPolicy } from "./PrivacyPolicy.tsx";
+export { default as Profile } from "./Profile.tsx";
+export { default as RecipeDetails } from "./recipes/RecipeDetails.tsx";
+export { default as RecipesSearch } from "./recipes/RecipesSearch.tsx";
